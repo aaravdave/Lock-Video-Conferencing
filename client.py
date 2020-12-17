@@ -34,7 +34,7 @@ while True:
 
             message_header = client_socket.recv(HEADER_LENGTH)
             message_length = int(message_header.decode('utf-8').strip())
-            message = client_socket.recv(message).decode('utf-8')
+            message = client_socket.recv(message_length).decode('utf-8')
 
             print(f'{username} {datetime.datetime.now().strftime("%d/%m/%Y at %H:%M:%S")}\n{message}\n')  # Prints the recieved message
 
