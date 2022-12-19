@@ -7,7 +7,7 @@ Security is our top priority, so we only code in secure versions of languages. H
 | Version | Supported          |
 | ------- | ------------------ |
 | FREE    | :x: |
-| X       | ✅:                |
+| X       | ✅                |
 
 ## Reporting a Vulnerability
 
