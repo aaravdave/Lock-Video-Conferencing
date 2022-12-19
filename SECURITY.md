@@ -6,9 +6,8 @@ Security is our top priority, so we only code in secure versions of languages. H
 
 | Version | Supported          |
 | ------- | ------------------ |
-| FREE    | :white_check_mark: |
-| X       | :x:                |
-| PRO X D1| :x: |
+| FREE    | :x: |
+| X       | ✅:                |
 
 ## Reporting a Vulnerability
 
